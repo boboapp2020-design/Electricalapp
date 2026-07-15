@@ -1,6 +1,7 @@
-const CACHE_NAME = 'em-app-v1';
+const CACHE_NAME = 'em-app-v2';
 const APP_SHELL = [
-  './app.html',
+  './',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
